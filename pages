@@ -1,1 +1,11 @@
-
+<html>
+<head>
+<title> Scandinavian ferries</title>
+</head>
+<body>
+<table>
+<tr><td>Company</td><td>Destination</td></tr>
+<tr><td>Visit Flaam</td><td>Myrdal-Flaam</td></tr>
+</table>
+</body>
+</html>
